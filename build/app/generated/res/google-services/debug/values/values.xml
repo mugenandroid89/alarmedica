@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1081049369528-sk9km6lk9kvjkugahj3g2i7hpobtm88k.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1081049369528</string>
+    <string name="google_api_key" translatable="false">AIzaSyBn34xCHFGuDdvPMAwdVLMg6Zua_14XepE</string>
+    <string name="google_app_id" translatable="false">1:1081049369528:android:3e9d1fba13bec3f6e05d4d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBn34xCHFGuDdvPMAwdVLMg6Zua_14XepE</string>
+    <string name="google_storage_bucket" translatable="false">firementosflutter.appspot.com</string>
+    <string name="project_id" translatable="false">firementosflutter</string>
+</resources>

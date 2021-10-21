@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081049369528",
+    "project_id": "firementosflutter",
+    "storage_bucket": "firementosflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081049369528:android:3e9d1fba13bec3f6e05d4d",
+        "android_client_info": {
+          "package_name": "com.example.alarmedica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081049369528-sk9km6lk9kvjkugahj3g2i7hpobtm88k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn34xCHFGuDdvPMAwdVLMg6Zua_14XepE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081049369528-sk9km6lk9kvjkugahj3g2i7hpobtm88k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
